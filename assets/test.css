@@ -12,8 +12,6 @@ body {
     color: #ffffff;
     font-size: 1rem;
     margin: 0 auto;
-    background-image: url(./images/texture_watercolor.jpg);
-    background-blend-mode: hard-light;
 }
 
 body.english {
